@@ -1,8 +1,11 @@
-# Road Accident Dashboard – Excel-Based Visualization
+# Road Accident Analysis Dashboard | Excel
 
-## 📌 Overview
+![Road Accident Excel Dashboard](./road_accident_excel_dashboard.png)
 
-This project presents a comprehensive **Road Accident Analysis Dashboard** built using **Microsoft Excel**. The goal is to visualize and derive actionable insights from road accident data, helping stakeholders understand trends, risk factors, and areas of concern.
+## Business Problem
+Road accidents cause significant loss of life and economic damage.
+This Excel dashboard analyzes large-scale road safety data to identify
+patterns, risk factors, and high-impact conditions.
 
 ## 📊 Dashboard Highlights
 
@@ -20,22 +23,23 @@ The Excel dashboard offers a visual summary of:
 - Use of **Excel charts, slicers, and pivot tables** for clean visualization
 - Designed for **quick executive insights** and data-driven decision making
 
-## 🧰 Tools Used
-- Microsoft Excel (Advanced Functions, PivotTables, Slicers, Charts)
-- Excel formulas for trend calculations
+## Tools & Skills Used
+• Microsoft Excel  
+• Pivot Tables  
+• Slicers & Filters  
+• Conditional Formatting  
+• KPI Tracking  
+• Data Analysis & Visualization  
 
-## 🧠 Key Insights
-- The majority of casualties (79.8%) involve **cars**
-- Most incidents occurred on **single carriageways** and **dry surfaces**
-- Urban areas accounted for a significantly higher number of casualties
+## Key Insights
+• Maximum casualties involved car-type vehicles  
+• Single carriageway roads recorded highest accidents  
+• Urban areas accounted for a higher share of incidents  
+• Daylight conditions showed more reported accidents  
 
-
-## 👩‍💻 Author
-
-**Sanya Mehta**  
-Final-year B.Tech student at Thapar Institute of Engineering & Technology  
-[LinkedIn Profile](https://www.linkedin.com/in/sanya-mehta17)
-
----
+## Business Impact
+Demonstrates ability to analyze large datasets, track safety KPIs,
+and generate insights relevant for traffic safety planning and
+risk identification.
 
 
